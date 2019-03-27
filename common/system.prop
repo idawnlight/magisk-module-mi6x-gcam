@@ -1,3 +1,8 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+
+# gcam
+# https://m.weibo.cn/status/4352990012120354
+persist.camera.HAL3.enabled=1
+persist.vendor.camera.HAL3.enabled=1

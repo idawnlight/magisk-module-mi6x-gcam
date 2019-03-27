@@ -41,7 +41,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     MI6X GCam Enabler - Magisk    "
+  ui_print "     by idawnlight@github    "
   ui_print "*******************************"
 }
 
